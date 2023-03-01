@@ -1,0 +1,8 @@
+openai
+requests-oauthlib
+tensorboard
+youtube-transcript-api
+konlpy
+pandas
+git+https://github.com/haven-jeon/PyKoSpacing.git
+googletrans==4.0.0-rc1
